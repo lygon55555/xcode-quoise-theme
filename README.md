@@ -1,3 +1,4 @@
+![스크린샷 2020-07-22 오전 10 44 42](https://user-images.githubusercontent.com/39911797/88124941-34c02100-cc09-11ea-89fa-1c22f954e122.png)
 # Quoise theme for Xcode
 <img width="1225" alt="스크린샷 2020-06-17 오후 3 04 43" src="https://user-images.githubusercontent.com/39911797/84861425-fab0ac00-b0ab-11ea-967b-4d88c3d64b3a.png">
 
