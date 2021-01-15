@@ -10,12 +10,12 @@ This theme will make your coding artistic. 🙂
 # Installation
 ```
 1. Copy Quoise.xccolortheme to the Xcode's FontAndColorThemes folder.
-   ( username/Library/Developer/Xcode/UserData/FontAndColorThemes/ 
+   ( /Users/<your_user_name>/Library/Developer/Xcode/UserData/FontAndColorThemes
      If FontAndColorThemes folder doesn't exist, create one. )
 2. Restart Xcode if it is running.
 3. Xcode -> Preferences -> Fonts & Colors -> select Quoise
 4. Enjoy!
 ```
 
-# License
+## License
 MIT License
