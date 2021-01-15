@@ -2,12 +2,12 @@
 # Quoise theme for Xcode
 <img width="1225" alt="스크린샷 2020-06-17 오후 3 04 43" src="https://user-images.githubusercontent.com/39911797/84861425-fab0ac00-b0ab-11ea-967b-4d88c3d64b3a.png">
 
-## Description
+# Description
 Quoise is a dark theme for Xcode with pastel colors and a dark background. Inspired by simurai's DuoTone theme.<br>
 The word 'quoise' means the feeling that someone has while he's doing something artistic. <br>
 This theme will make your coding artistic. 🙂
 
-## Installation
+# Installation
 ```
 1. Copy Quoise.xccolortheme to the Xcode's FontAndColorThemes folder.
    ( /Users/<your_user_name>/Library/Developer/Xcode/UserData/FontAndColorThemes
